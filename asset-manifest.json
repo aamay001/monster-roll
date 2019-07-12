@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/monster-roll/static/css/main.a57554a8.chunk.css",
+    "main.js": "/monster-roll/static/js/main.40a1dd36.chunk.js",
+    "main.js.map": "/monster-roll/static/js/main.40a1dd36.chunk.js.map",
+    "runtime~main.js": "/monster-roll/static/js/runtime~main.9fde814b.js",
+    "runtime~main.js.map": "/monster-roll/static/js/runtime~main.9fde814b.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/monster-roll/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/monster-roll/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/monster-roll/index.html",
+    "precache-manifest.8127311cf646397db9ef966275635e07.js": "/monster-roll/precache-manifest.8127311cf646397db9ef966275635e07.js",
+    "service-worker.js": "/monster-roll/service-worker.js",
+    "static/css/main.a57554a8.chunk.css.map": "/monster-roll/static/css/main.a57554a8.chunk.css.map"
+  }
+}
